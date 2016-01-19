@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Mytraffic4</string>
+    <string name="app_name">MyTraffic</string>
+    <string name="title">Traffic Sign</string>
+    <string name="Test">Test</string>
 </resources>
