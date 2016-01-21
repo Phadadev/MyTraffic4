@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/gray"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imvShowicon"
+        android:layout_width="@dimen/icon"
+        android:layout_height="@dimen/icon"
+        android:layout_margin="@dimen/my_margin"
+        android:background="@drawable/traffic_01"/>
+
+    <TextView
+        android:id="@+id/txtShowTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:text="Don't turn Left"
+        android:textColor="#ffffff"
+        android:textSize="@dimen/h1"
+        />
+</LinearLayout>
