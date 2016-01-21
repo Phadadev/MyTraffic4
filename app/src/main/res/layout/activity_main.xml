@@ -27,6 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
+        android:onClick="clickAboutMe"
         android:text="About Me"
         android:textColor="#0b0b0b"
         android:textSize="23dp" />
